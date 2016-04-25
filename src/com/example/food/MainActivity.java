@@ -157,7 +157,7 @@ public class MainActivity extends Activity {
 	                {
 	                    HttpClient httpClient = new DefaultHttpClient();
 	                    HttpPost httpPost = new HttpPost(
-	                            "http://www.hemalatha.890m.com/food/view.php");
+	                            "https://github.com/Abhigna1/PSA.git");
 	                    httpPost.setEntity(new UrlEncodedFormEntity(nameValuePairs));
 	                    HttpResponse response = httpClient.execute(httpPost);
 	                    HttpEntity entity = response.getEntity();
