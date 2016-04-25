@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Food</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <color name="blue">#0000ff</color>
+    <color name="darkviolet">#9400d3</color>
+    <color name="electriclime">#ccff00</color>
+    <color name="orange">#ffa500</color>
+    <color name="brown">#ff33cc</color>
+
+    <string name="title_activity_sugar_level">SugarLevel</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_activity_fat_level">FatLevel</string>
+    <string name="title_activity_carbo_level">CarboLevel</string>
+
+</resources>
